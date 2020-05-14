@@ -143,6 +143,3 @@ Spring Cloud 爱好者, 现就任于每日优鲜物流中台业务架构组.
 ![项目架构图](http://img.paascloud.net/image/paascloud/paascloud-framework-2.0.png)
 
 
-### 关于项目
-
-本项目受国家计算机软件著作权保护（登记号：2018SR320076）, 请遵循开源协议, 不得将本软件用于商业用途
